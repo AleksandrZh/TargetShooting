@@ -26,7 +26,7 @@
             b.y = 0;
 
 
-            Console.WriteLine($"x {a.x} y {a.y}");
+
 
 
 
